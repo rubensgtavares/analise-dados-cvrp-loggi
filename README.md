@@ -12,8 +12,8 @@ Investigar padrões logísticos e o comportamento espacial das entregas simulada
 
 ## 📂 Estrutura do Projeto
 
-- `notebook.ipynb`: Jupyter Notebook com todo o processo de análise e visualizações.
-- `Análise_Exploratória_de_Dados_(CVRP_Loggi_BUD).html`: versão em HTML para visualização rápida.
+- `Análise_Exploratória_de_Dados_(CVRP_Loggi_BUD)..ipynb`: Jupyter Notebook com todo o processo de análise e visualizações.
+- `Análise_Exploratória_de_Dados_(CVRP_Loggi_BUD)..html`: versão em HTML para visualização rápida.
 - `apresentacao.pdf`: carrossel explicativo do projeto.
 - `README.md`: este arquivo.
 
