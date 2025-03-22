@@ -59,9 +59,7 @@ Foram utilizados mapas da cidade de Brasília para analisar a distribuição geo
 
 ## 🔗 Links Relacionados
 
-- 📊 [Projeto no Kaggle](https://www.kaggle.com/rubensgabrieltavares)  
-- 💻 [Repositório no GitHub](https://github.com/rubensgtavares)  
-- 🧾 [Apresentação em PDF](coloque-o-link-do-drive-ou-do-pdf-aqui-se-quiser-compartilhar)
+- 📊 [Projeto no Kaggle](https://www.kaggle.com/code/rubensgabrieltavares/an-lise-explorat-ria-de-dados-cvrp-loggi-bud)  
 
 ---
 
