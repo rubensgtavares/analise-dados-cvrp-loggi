@@ -68,7 +68,7 @@ Foram utilizados mapas da cidade de Brasília para analisar a distribuição geo
 ## 🙋 Sobre mim
 
 Este projeto foi desenvolvido por **Rubens Gabriel Tavares**, estudante de Engenharia da Computação e Análise de Dados.  
-📧 [rubensgabrieltavares@gmail.com](mailto:rubensgabrieltavares@gmail.com)
+📧 [rubensgabrieltavares@gmail.com](mailto:rubensgabriel_stuass@gmail.com)
 
 ---
 
